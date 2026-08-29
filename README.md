@@ -20,7 +20,7 @@ This repository serves as a sandbox environment for testing and experimentation.
 - Collaborative development environment
 - Great for learning and experimentation
 
-## Contributing
+## Contributig
 
 We welcome contributions from all team members! Here's how you can help:
 
