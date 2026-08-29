@@ -6,7 +6,8 @@ Welcome to the TEST repository! This is a collaborative project designed to help
 
 This repository serves as a sandbox environment for testing and experimentation. Whether you're exploring new ideas, learning Git workflows, or building prototypes, this is the place to do it.
 
-## Getting Started
+## Getting Star
+d
 
 1. Clone the repository to your local machine
 2. Create a new branch for your work
