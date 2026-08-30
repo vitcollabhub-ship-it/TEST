@@ -4,7 +4,7 @@ Welcomee TEST repository! This is a collaborative project designed to help teams
 
 ## Overview
 
-This repository serves as a sandbox ironment for testing and experimentation. Whether you're exploring new ideas, learning Git workflows, or buildiototypes, this is the place to do it.
+This repository serves as a sandbox ronment for testing and experimentation. Whether you're exploring new ideas, learning Git workflows, or buildiototypes, this is the place to do it.
 
 ## Getting Star
 
