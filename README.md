@@ -1,6 +1,6 @@
 # TEST Repository
 
-Welcomethe TEST repository! This is a collaborative project designed to help teams ship code faster and more effectively.
+Welcomee TEST repository! This is a collaborative project designed to help teams ship code faster and more effectively.
 
 ## Overview
 
