@@ -1,4 +1,4 @@
-// ai_analyzer_bad.js
+
 // INTENTIONALLY VULNERABLE TEST FILE
 // All credentials below are fake test values.
 
