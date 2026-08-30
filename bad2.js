@@ -1,9 +1,6 @@
 
 // INTENTIONALLY VULNERABLE TEST FILE
-// All credentials below are fake test values.
-
-// ============================================================
-// 1. HARDCODED SECRETS
+// All credentials below are fake test val
 // ============================================================
 
 const JWT_SECRET = "FAKE_TEST_JWT_SECRET_123456789";
