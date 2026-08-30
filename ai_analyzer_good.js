@@ -2,7 +2,7 @@
  * AI Code Analyzer Test — GOOD CODE
  *
  * Purpose:
- * A clean, reasonably secure reference implementation.
+ * A clean, reasonably secure refeence implementation.
  * Expected result: few or no significant findings.
  */
 
