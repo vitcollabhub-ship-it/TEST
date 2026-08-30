@@ -1,10 +1,7 @@
 
-// INTENTIONALLY VULNERABLE TEST FILE
-// All credentials below are fake test val
-// ============================================================
 
 const JWT_SECRET = "FAKE_TEST_JWT_SECRET_123456789";
-const DATABASE_PASSWORD = "FakePassword123!";
+const DATABASE_PASSWORD = "FakePasswor23!";
 const API_KEY = "FAKE_API_KEY_123456789";
 
 // ============================================================
