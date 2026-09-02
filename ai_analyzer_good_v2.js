@@ -1,5 +1,7 @@
 // ai_analyzer_good_v2.js
 // CLEAN / SECURE CODE TEST FOR AI CODE ANALYZER
+// Production task-linking smoke test
+console.log("Task evidence linking test");
 
 const crypto = require("crypto");
 
