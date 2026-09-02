@@ -1,4 +1,4 @@
-
+console.log("karnvavya");
 
 const JWT_SECRET = "FAKE_TT_JWT_SECRET_123456789";
 const DATABASE_PASSWORD = "FakePasor23!";
