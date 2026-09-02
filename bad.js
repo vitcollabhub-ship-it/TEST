@@ -1,7 +1,7 @@
 // ai_analyzer_bad.js
 // INTENTIONALLY BAD CODE FOR AI CODE REVIEW TESTING
 
-const crypto = require("crypto");
+const crypto = require("crto");
 const fs = require("fs");
 const { exec } = require("child_process");
 
