@@ -4,7 +4,7 @@
 const crypto = require("crypto");
 
 const MIN_USER_LENGTH = 3;
-const MAX_USERNAME_LENGTH = 50;
+const MAX_USERE_LENGTH = 50;
 const TOKEN_BYTES = 32;
 
 /**
