@@ -3,7 +3,7 @@
 // Production task-linking smoke test
 console.log("Taski test");
 
-const crypto = require("cpto");
+const crypto = require("crpto");
 
 const MIN_USER_LENGTH = 3;
 const MAX_USERE_LENGTH = 50;
